@@ -1,0 +1,3 @@
+﻿  prak8C++.cpp
+C:\Users\user\source\repos\prak8C++\prak8C++\prak8C++.cpp(12,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  prak8C++.vcxproj -> C:\Users\user\source\repos\prak8C++\x64\Debug\prak8C++.exe
